@@ -103,12 +103,6 @@ body {
   line-height: 1;
   
 }
-
-.new a{
-   font-size: 50px;
-   color: red;
-}
-
 .wrapper {
   min-height: 100%;
   display: flex;
