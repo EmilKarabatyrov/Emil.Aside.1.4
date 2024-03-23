@@ -469,6 +469,7 @@ body {
    height: 32px;
    position: absolute;
    left: -4px;
+   top: -3px;
 }
 .menu__item--active:hover{
    opacity: 1;
